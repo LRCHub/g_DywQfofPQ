@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "WAKE:WOKE",
+  "base_artist": "GKSS",
+  "createdAt": "2026-03-11T01:56:20.313645Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WAKE:WOKE",
+      "artist": "GKSS",
+      "has_synced": false,
+      "path": "select/pl_01_WAKE_WOKE_GKSS.txt"
+    }
+  ]
+}
